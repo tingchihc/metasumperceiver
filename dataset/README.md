@@ -23,6 +23,8 @@
 python search_img.py  
 ```
 
+### Prompt the claims from the Llama2  
+
 ### Reference  
 
 1. [googlesearch](https://github.com/Nv7-GitHub/googlesearch)  
