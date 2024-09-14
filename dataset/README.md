@@ -2,9 +2,8 @@
 
 ### Preprocessing  
 
-
 1. Download the Multi-News dataset from Huggingface on your side. [link](https://huggingface.co/datasets/alexfabbri/multi_news)
-2. Process multi_news data with documents.json format:
+2. Process multi_news data with [documents.json](https://drive.google.com/file/d/1dE_0UmfDH5XggrLWD6xRK09BWIXjRTmc/view?usp=sharing) format or download this directly:
 
 ```
 # '0_0' represents a unique document identifier:  
@@ -17,6 +16,9 @@
 }
 ```
 
+### Search news images  
+
+1. 
 
 ### Reference  
 
