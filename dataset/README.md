@@ -30,6 +30,7 @@ python search_img.py
 ```
 python 
 ```
+3. You also can try on this [space](https://huggingface.co/spaces/huggingface-projects/llama-2-7b-chat). This is how our claims are generated.  
 
 ### Reference  
 
