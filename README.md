@@ -1,7 +1,4 @@
-# MetaSumPerceiver  
-
 [paper](https://aclanthology.org/2024.acl-long.474/), [arxiv](https://arxiv.org/abs/2407.13089)  
-
 ## MetaSumPerceiver: Multimodal Multi-Document Evidence Summarization for Fact-Checking  
 
 ![Alt text](img/profile.png)  
