@@ -18,7 +18,7 @@
 
 ### Search news images  
 
-1. Run the following code and you will get the news images similar like sample.  
+1. Run the following code and you will get the news images similar like the [sample](https://github.com/tingchihc/metasumperceiver/tree/main/dataset/sample).  
 ```
 python search_img.py  
 ```
