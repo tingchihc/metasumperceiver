@@ -12,6 +12,8 @@ Fact-checking real-world claims often requires reviewing multiple multimodal doc
 
 ## Dataset  
 
+follow this [instruction](https://github.com/tingchihc/metasumperceiver/tree/main/dataset) to get the dataset  
+
 ## Citation 
 If you find this project useful in your research, please consider cite:
 
