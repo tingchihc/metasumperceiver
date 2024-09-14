@@ -18,7 +18,9 @@
 
 ### Search news images  
 
-1. 
+```
+python search_img.py  
+```
 
 ### Reference  
 
