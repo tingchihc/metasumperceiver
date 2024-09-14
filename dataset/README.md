@@ -25,7 +25,7 @@ python search_img.py
 
 ### Prompt the claims from the Llama2  
 
-1. Download the [llama](https://github.com/meta-llama/llama) in your side. We are using llama2 7B to prompt our claims.
+1. follow [llama](https://github.com/meta-llama/llama) method to download in your side. We are using llama2 7B to prompt our claims.
 2. Run the following code and then you will get the news claims from each cluster.
 ```
 python 
