@@ -4,7 +4,7 @@
 
 ## MetaSumPerceiver: Multimodal Multi-Document Evidence Summarization for Fact-Checking  
 
-![Alt text](img/metasumperceiver.pdf)  
+![Alt text](img/profile.png)  
 
 ## Abstract  
 
