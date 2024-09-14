@@ -18,6 +18,7 @@
 
 ### Search news images  
 
+1. Run the following code and you will get the news images similar like sample.  
 ```
 python search_img.py  
 ```
