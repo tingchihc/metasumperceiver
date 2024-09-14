@@ -4,14 +4,17 @@
 
 
 1. Download the Multi-News dataset from Huggingface on your side. [link](https://huggingface.co/datasets/alexfabbri/multi_news)
-2. Process multi_news data with documents.json format:   
+2. Process multi_news data with documents.json format:
+
 ```
+# '0_0' represents a unique document identifier:  
+# The first '0' is the cluster number from the Multi_news dataset (group of documents).  
+# The second '0' is the document ID within that cluster.  
 {
-'train': {'0_0': ''}, ...
+'train': {'0_0': '', '0_1': ''}, ...
 'validation': {'0_0': ''}, ...
 'test': {'0_0': ''}, ...
 }
-
 ```
 
 
