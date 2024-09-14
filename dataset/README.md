@@ -28,7 +28,7 @@ python search_img.py
 1. follow [llama](https://github.com/meta-llama/llama) method to download in your side. We are using llama2 7B to prompt our claims.
 2. Run the following code and then you will get the news claims from each cluster.
 ```
-python 
+python prompt_claims.py
 ```
 3. You also can try on this [space](https://huggingface.co/spaces/huggingface-projects/llama-2-7b-chat). This is how our claims are generated.  
 
