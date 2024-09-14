@@ -2,7 +2,7 @@
 
 ### Preprocessing  
 
-1. Download Multi-News dataset from Huggingface [link](https://huggingface.co/datasets/alexfabbri/multi_news)  
+1. Download the Multi-News dataset from Huggingface on your side. [link](https://huggingface.co/datasets/alexfabbri/multi_news)  
 2. 
 3. 
 
